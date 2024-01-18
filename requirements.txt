@@ -5,3 +5,5 @@ numpy
 geopy
 statistics
 requests
+json-server
+pickle
