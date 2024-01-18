@@ -6,4 +6,4 @@ geopy
 statistics
 requests
 json-server
-pickle => 3.7
+pickle-mixin
