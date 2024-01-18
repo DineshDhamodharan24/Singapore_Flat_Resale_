@@ -5,5 +5,5 @@ numpy
 geopy
 statistics
 requests
-json
+json >= 2.0.9
 pickle
